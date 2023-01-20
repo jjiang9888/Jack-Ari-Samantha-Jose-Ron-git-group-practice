@@ -8,4 +8,6 @@ Hello, Ron here - wow Git is so fun and clear and obvious. what could possibly g
 
 Jose's Change to the readme
 
+Something new -Sam
+
 -something
